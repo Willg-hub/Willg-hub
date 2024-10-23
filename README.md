@@ -4,7 +4,7 @@ Me chamo William sou desenvolvedor Fiull Stack com experiência sólida em C#, B
 
 Atualmente, atuo principalmente em desenvolvimento Web com C# utilizando Blazor como framework.
 
-💡 Minhas principais competências:
+💡 Minhas principais tecnologias:
 
 Desenvolvimento front-end com Blazor e JavaScript
 
@@ -28,5 +28,3 @@ Integração de APIs e automação de processos
 [![Skill]( https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]
 
 ![Willg-hub GitHub stats](https://github-readme-stats.vercel.app/api?username=Willg-hub&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willg-hub&layout=compact)
