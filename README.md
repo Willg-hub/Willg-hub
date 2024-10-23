@@ -15,6 +15,7 @@ Atualmente, atuo principalmente em desenvolvimento Web com C# utilizando Blazor 
 - Banco de dados relacionais com PostgreSQL
 
 - .NET Framework
+
 <div style="text-align:center;">
 
 [![Skill](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
