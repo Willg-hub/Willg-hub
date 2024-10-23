@@ -16,7 +16,6 @@ Atualmente, atuo principalmente em desenvolvimento Web com C# utilizando Blazor 
 - Banco de dados relacionais com PostgreSQL
 
 - .NET Framework
-<div>
 <img align="center"  style="margin:5px;" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="center" style="margin:5px;" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img align="center" style="margin:5px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -29,4 +28,3 @@ Atualmente, atuo principalmente em desenvolvimento Web com C# utilizando Blazor 
 
 <img align="center" style="margin-top:30px; " src="https://github-readme-stats.vercel.app/api?username=Willg-hub&show_icons=true&theme=tokyonight"/>
 
-</div>
