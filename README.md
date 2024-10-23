@@ -3,8 +3,13 @@ Olá, seja bem vindo! Me chamo William sou desenvolvedor full-stack com experiê
 💡 Minhas principais competências:
 
 Desenvolvimento front-end com Blazor e JavaScript
+
 Bootstrap e Blazor Bootstrap
+
 Backend com C# e PHP
+
 Banco de dados relacionais com PostgreSQL
+
 .NET Framework
+
 Integração de APIs e automação de processos
