@@ -13,3 +13,4 @@ Banco de dados relacionais com PostgreSQL
 .NET Framework
 
 Integração de APIs e automação de processos
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
