@@ -22,5 +22,5 @@ Atualmente, atuo principalmente em desenvolvimento Web com C# utilizando Blazor 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats-rho-ecru-41.vercel.app/api/top-langs/?username=Willg-hub&layout=compact)
+![GitHub Stats](https://github-readme-stats-six-lime-79.vercel.app/api/top-langs/?username=Willg-hub&layout=compact)
 
