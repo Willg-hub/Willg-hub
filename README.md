@@ -2,7 +2,7 @@
 
 Me chamo William, sou desenvolvedor Full Stack com experiência sólida em C#, Blazor, JavaScript, PostgreSQL e PHP. Tenho atuado no desenvolvimento de aplicações completas, desde a interface de usuário até o backend.
 
-Atualmente, atuo principalmente em desenvolvimento Web com C# utilizando Blazor como framework.
+Atualmente, atuo principalmente em desenvolvimento Web com C# utilizando .Net como framework.
 
 💡 Minhas principais competências:
 
