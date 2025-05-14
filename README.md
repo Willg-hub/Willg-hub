@@ -1,16 +1,16 @@
 # Olá, seja bem vindo! 😃
 
-Me chamo William, sou desenvolvedor Full Stack com experiência sólida em C#, Blazor, JavaScript, PostgreSQL e PHP. Tenho atuado no desenvolvimento de aplicações completas, desde a interface de usuário até o backend.
+Me chamo William, sou desenvolvedor Full Stack com experiência sólida em C#, Blazor, JavaScript, PostgreSQL e SQL Server. Tenho atuado no desenvolvimento de aplicações completas, desde a interface de usuário até o backend.
 
 Atualmente, atuo principalmente em desenvolvimento Web com C# utilizando .Net como framework.
 
 💡 Minhas principais competências:
 
-- Desenvolvimento front-end com Blazor e JavaScript 
-- Bootstrap e Blazor Bootstrap
-- Backend com C# e PHP
-- Banco de dados relacionais com PostgreSQL
+- Desenvolvimento front-end com Blazor, JavaScript, bootstrap e Radzen
+- Backend com C#
+- Banco de dados relacionais com PostgreSQL e SQL Server
 - .NET Framework
+- API RESTful
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
